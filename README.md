@@ -21,6 +21,4 @@ Plan is to get all the FIT files for these 16K red giants, normalize them, stitc
 
 Also, just going to leave this diagram here. It's so neat!
 
-!(https://github.com/rtarun/deep-asteroseismology/blob/master/assets/Hertzsprung-Russel_StarData.png)
-
 ![picture](assets/Hertzsprung-Russel_StarData.png)
