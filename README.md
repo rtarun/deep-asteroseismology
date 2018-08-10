@@ -17,3 +17,8 @@ https://arxiv.org/pdf/1802.04455.pdf
 
 
 Plan is to get all the FIT files for these 16K red giants, normalize them, stitch them together, and then start the RNN analysis. But data. Real world data never be clean and organized. Also, getting all the FIT files hasn't been easy (using kplr+astropy-pyfits packages). Now swtiching to using simulated data, and come back to this at a later point.
+
+
+Also, just going to leave this diagram here. It's so neat!
+
+!(https://en.wikipedia.org/wiki/File:Hertzsprung-Russel_StarData.png)
